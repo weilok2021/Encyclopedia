@@ -7,7 +7,7 @@ A simple encyclopedia app that handle user request using restful routing which a
 
 2. **Navigate to the project directory**:
     ```bash
-    cd Entries/
+    cd Encyclopedia/
     ```
 
 3. **Install the required dependencies/libraries**:
@@ -21,7 +21,7 @@ A simple encyclopedia app that handle user request using restful routing which a
     node app.js
     ```
 
-5. **Now you can access the home page using this url:**
+5. **Now you can run the website using this url:**
 - http://localhost:3000/wiki
 
 ## Explore The Site
