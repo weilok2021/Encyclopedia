@@ -3,11 +3,11 @@ A simple encyclopedia app that handle user request using restful routing which a
 
 ## How to use
 First, run this command: 
-    npm install
-This will install all the dependencies/libraries needed for this project.
+- npm install
+This command will install all the dependencies/libraries needed for this project.
 
 Then, run this command:
-    node app.js
+- node app.js
 
 This will start a server on port 3000, and you can access the home page using this url:
     http://localhost:3000/wiki
