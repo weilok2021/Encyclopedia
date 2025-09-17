@@ -1,13 +1,19 @@
 # Encyclopedia
 A simple encyclopedia app that handle user request using restful routing which allowed user to create entry, remove entry, delete existing entry, edit entry and etc.. The server side logic is built using nodeJS and Express.
 
-## How to use
-First, fork and clone this repository
+
+2. **Navigate to the project directory**:
+    ```bash
+    cd CS50AI/week0/tictactoe
+    ```
+
+## How to use:
+**First, fork and clone this repository**
 
 **Navigate to the project directory:**
-    ```bash
-    cd Encyclopedia/
-    ```
+```bash
+    cd entries/
+```
 
 Run this command to install all the dependencies/libraries needed for this project: 
 - npm install
