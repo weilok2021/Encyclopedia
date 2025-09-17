@@ -9,9 +9,11 @@ Then, run this command, this will start a server on port 3000:
 - node app.js
 
 And now you can access the home page using this url:
-    http://localhost:3000/wiki
+- http://localhost:3000/wiki
 
-Now, it's time for you to explore the pages and their features
+
+## Explore The Site
+Now, it's time for you to explore the Encyclopedia site and their features
 
 Click Create New Page on the left side bar, will redirect you to a page that allows you to enter title and content, after you enter the required information, you will be redirected to the newly created entry page.
 
