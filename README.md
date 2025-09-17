@@ -2,7 +2,14 @@
 A simple encyclopedia app that handle user request using restful routing which allowed user to create entry, remove entry, delete existing entry, edit entry and etc.. The server side logic is built using nodeJS and Express.
 
 ## How to use
-First, run this command to install all the dependencies/libraries needed for this project: 
+First, fork and clone this repository
+
+**Navigate to the project directory:**
+    ```bash
+    cd Encyclopedia/
+    ```
+
+Run this command to install all the dependencies/libraries needed for this project: 
 - npm install
 
 Then, run this command, this will start a server on port 3000:
