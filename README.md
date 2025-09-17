@@ -2,14 +2,13 @@
 A simple encyclopedia app that handle user request using restful routing which allowed user to create entry, remove entry, delete existing entry, edit entry and etc.. The server side logic is built using nodeJS and Express.
 
 ## How to use
-First, run this command: 
+First, run this command to install all the dependencies/libraries needed for this project: 
 - npm install
-This command will install all the dependencies/libraries needed for this project.
 
-Then, run this command:
+Then, run this command, this will start a server on port 3000:
 - node app.js
 
-This will start a server on port 3000, and you can access the home page using this url:
+And now you can access the home page using this url:
     http://localhost:3000/wiki
 
 Now, it's time for you to explore the pages and their features
